@@ -19,7 +19,6 @@ For more info, see <a href="https://portswigger.net/research/smashing-the-state-
 go install github.com/ri2q/goRacer@latest
 ```
 
-
 <br>
 
 # Flags:
@@ -44,7 +43,6 @@ DEBUG:
    -l, --tls-key-log	TLS key log file path for wireshark
    -p, --proxy	Proxy (http://host:port or host:port)
 ```
-
 
 <br>
 
