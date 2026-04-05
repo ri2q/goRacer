@@ -1,0 +1,5 @@
+# Ignore compiled binary in project root
+/goRacer
+*.exe
+*.ignore
+vendor
