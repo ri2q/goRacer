@@ -2,10 +2,8 @@
 
 <br>
 
-<div align="center">
-   <b>goRacer</b> is a CLI tool for exploiting remote race condition flaws by completing multiple HTTP/2 requests within a single TCP packet.  
-   For more info, see <a href="https://portswigger.net/research/smashing-the-state-machine#single-packet-attack">Smashing the state machine</a>.
-</div>
+<b>goRacer</b> is a CLI tool for exploiting remote race condition flaws by completing multiple HTTP/2 requests within a single TCP packet.  
+For more info, see <a href="https://portswigger.net/research/smashing-the-state-machine#single-packet-attack">Smashing the state machine</a>.
 
 
 <br>
@@ -13,7 +11,7 @@
 # Installation Instructions
 
 **Requirements**
- - Go Go 1.22+
+ - Go 1.22+
 
 **Installation**
 
